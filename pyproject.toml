@@ -1,0 +1,11 @@
+[project]
+name = "math"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "icecream>=2.1.8",
+    "numpy>=2.3.3",
+    "numpy-minmax>=0.5.0",
+]
